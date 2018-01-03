@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+"""A simple Hello World."""
+
 import rospy
 from std_msgs.msg import String
 
